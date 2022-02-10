@@ -1,0 +1,13 @@
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\bin\Debug\netcoreapp3.1\task4.exe
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\bin\Debug\netcoreapp3.1\task4.deps.json
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.json
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.dev.json
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\bin\Debug\netcoreapp3.1\task4.dll
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\bin\Debug\netcoreapp3.1\task4.pdb
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\obj\Debug\netcoreapp3.1\task4.csprojAssemblyReference.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfoInputs.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfo.cs
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\obj\Debug\netcoreapp3.1\task4.csproj.CoreCompileInputs.cache
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\obj\Debug\netcoreapp3.1\task4.dll
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\obj\Debug\netcoreapp3.1\task4.pdb
+C:\Users\Алло\Documents\visual studio projects\Laboratorna1(sem2)\task4\obj\Debug\netcoreapp3.1\task4.genruntimeconfig.cache
